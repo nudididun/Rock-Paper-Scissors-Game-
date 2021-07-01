@@ -11,3 +11,5 @@ Implementing the Rock-Paper-Scissor game for one player playing against the comp
 -The extended if-else if-else statement to determine who wins an individual play, the computer or the player
 
 -A while loop to allow 3 rounds (or as many) of the game
+
+** images used in the game can be found in the Game Icons folder. e.g RCS in code represents the image 'rockCrushScissor'.
